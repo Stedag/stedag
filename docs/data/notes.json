@@ -1,0 +1,145 @@
+{
+  "notes": {
+    "403": {
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "403",
+      "updated": 1636946136061,
+      "created": 1636946136061,
+      "parent": null,
+      "children": [],
+      "data": {}
+    },
+    "2025b734-c4e1-4d49-ae02-60ce7e0ff083": {
+      "id": "2025b734-c4e1-4d49-ae02-60ce7e0ff083",
+      "title": "Root",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "stephens-portfolio": {
+          "type": "header",
+          "text": "Stephen's Portfolio",
+          "value": "stephens-portfolio",
+          "line": 8,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1636944228000,
+      "created": 1609899020137,
+      "parent": null,
+      "children": [
+        "0bb46924-2bbc-42af-a48d-a903c3aa6943"
+      ],
+      "data": {},
+      "contentHash": "1e0906493a83cb1f50e05adaf33aabf3",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      }
+    },
+    "0bb46924-2bbc-42af-a48d-a903c3aa6943": {
+      "id": "0bb46924-2bbc-42af-a48d-a903c3aa6943",
+      "title": "PKM",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "PKM",
+      "updated": 1613931710905,
+      "created": 1612541047168,
+      "parent": "2025b734-c4e1-4d49-ae02-60ce7e0ff083",
+      "children": [],
+      "data": {},
+      "contentHash": "1739f30736310c2291056dc7f382b11c",
+      "custom": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "2025b734-c4e1-4d49-ae02-60ce7e0ff083",
+      "title": "Root",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "stephens-portfolio": {
+          "type": "header",
+          "text": "Stephen's Portfolio",
+          "value": "stephens-portfolio",
+          "line": 8,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1636944228000,
+      "created": 1609899020137,
+      "parent": null,
+      "children": [
+        "0bb46924-2bbc-42af-a48d-a903c3aa6943"
+      ],
+      "data": {},
+      "contentHash": "1e0906493a83cb1f50e05adaf33aabf3",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "\n\r\n# Stephen's Portfolio\r\n\r\nSome of my projects can be found here. \r\n\r\nUpdates may include past school-work, research, and even some woodworking I have done."
+    }
+  ],
+  "noteIndex": {
+    "id": "2025b734-c4e1-4d49-ae02-60ce7e0ff083",
+    "title": "Root",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "type": "note",
+    "desc": "",
+    "links": [],
+    "anchors": {
+      "stephens-portfolio": {
+        "type": "header",
+        "text": "Stephen's Portfolio",
+        "value": "stephens-portfolio",
+        "line": 8,
+        "column": 0
+      }
+    },
+    "fname": "root",
+    "updated": 1636944228000,
+    "created": 1609899020137,
+    "parent": null,
+    "children": [
+      "0bb46924-2bbc-42af-a48d-a903c3aa6943"
+    ],
+    "data": {},
+    "contentHash": "1e0906493a83cb1f50e05adaf33aabf3",
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "body": "\n\r\n# Stephen's Portfolio\r\n\r\nSome of my projects can be found here. \r\n\r\nUpdates may include past school-work, research, and even some woodworking I have done."
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
